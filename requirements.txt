@@ -1,0 +1,2 @@
+livekit-agents[sarvam,google,simli,silero]~=1.4
+python-dotenv
